@@ -1,1 +1,0 @@
-Creating an app using Drag and Drop with React without libraries
